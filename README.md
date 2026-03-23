@@ -37,3 +37,13 @@ $$\mu_t = \sum_{i=1}^{n} |y_{t,i} - \hat{y}_{t,i}|^2$$
 
 L'objectif du lab est d'optimiser la survie des chemins dans le treillis pour minimiser le **BER** (Bit Error Rate) en fonction du rapport signal sur bruit :
 $$\frac{E_b}{N_0} \text{ (en dB)}$$
+
+---
+
+## 🚀 Rejoindre la recherche au NTI Lab
+Nous proposons des sujets d'expérimentation concrets pour les étudiants en Master et Écoles d'Ingénieurs. 
+
+> [!TIP]
+> **Sujets disponibles :** Optimisation C++, Décodage par IA, Simulation de canaux bruités.
+> 
+> 👉 [Consulter la liste détaillée des missions de recherche](./docs/SUJETS_DE_RECHERCHE.md)
